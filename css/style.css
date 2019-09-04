@@ -21,6 +21,15 @@ h4 {
   padding: 5px;
   margin: 20px 0 0 0;
 }
+
+h4.amiable {
+  background: linear-gradient(
+    to right,
+    #118833,
+    #66ee88
+  );
+}
+
 img {
   box-sizing: border-box;
   border: 2px solid #333;
